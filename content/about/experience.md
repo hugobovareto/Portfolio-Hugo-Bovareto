@@ -78,7 +78,7 @@ experience:
       * Suporte à articuladora de colaboração para mobilização de todos municípios e escolas no estado.
       * Controle de todos os processos de concessão de bolsas para redatores e formadores da BNCC e DRC-MT no estado.
 
-  - title: Trainee de Gestão Pública
+  - title: Trainee de Gestão Pública_
     company: Motriz / Vetor Brasil
     company_logo:
     date_start: '2018-05-01'
