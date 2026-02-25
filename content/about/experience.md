@@ -23,10 +23,23 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Analista de Dados Sênior
+    company: FGV DGPE
+    company_logo: 
+    date_start: '2025-03-01'
+    date_end: ''
+    description: |2-
+      Participação no projeto Gestão para Aprendizagem na Secretaria de Estado de Educação, do Esporte e do Lazer do Rio Grande do Norte (SEEC-RN).     
+       <br>   
+      * Análise de dados educacionais com Python, Google Sheets e Microsoft Excel.
+      * Visualizações de dados com Microsoft Power BI, Google Looker Studio, Streamlit e Python.
+      * Coleta e extração de dados da rede de educação.
+      * Acompanhamento, monitoramento e produção de relatórios de avaliações externas, formação de professores e práticas de gestão nas escolas estaduais.
+
+  - title: Analista de Dados Sênior
     company: Movimento pela Base
     company_logo: 
     date_start: '2022-04-01'
-    date_end: ''
+    date_end: '2025-03-01'
     description: |2-
       * Monitoramento de atualizações sobre políticas correlacionadas à BNCC e ao Novo Ensino Médio.
       * Análise de dados educacionais.
@@ -78,7 +91,7 @@ experience:
       * Suporte à articuladora de colaboração para mobilização de todos municípios e escolas no estado.
       * Controle de todos os processos de concessão de bolsas para redatores e formadores da BNCC e DRC-MT no estado.
 
-  - title: Trainee de Gestão Pública_
+  - title: Trainee de Gestão Pública
     company: Motriz / Vetor Brasil
     company_logo:
     date_start: '2018-05-01'
