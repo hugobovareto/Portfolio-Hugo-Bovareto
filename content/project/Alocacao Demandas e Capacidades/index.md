@@ -4,5 +4,5 @@ summary: Aplicação construída com a biblioteca Streamlit e que realiza a aloc
 tags:
   - AA
 date: 2022-01-01
-external_link: 
+external_link: https://alocacao-demandas.streamlit.app/
 ---
