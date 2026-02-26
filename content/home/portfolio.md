@@ -26,12 +26,14 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-    - name: Análise de Dados
-      tag: '*'
+    - name: Análises de Dados
+      tag: AD
     - name: Visualizações
       tag: V
     - name: Machine Learning
       tag: ML
+    - name: Aplicações Analíticas
+      tag: AA
 
 
 design:
