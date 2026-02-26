@@ -4,5 +4,5 @@ summary: Esta aplicação realiza a alocação ótima de demanda não atendida p
 tags:
   - AA
 date: 2022-01-01
-external_link: hhttps://alocacao-demandas.streamlit.app/
+external_link: https://alocacao-demandas.streamlit.app/
 ---
